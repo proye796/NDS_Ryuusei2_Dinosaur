@@ -1,7 +1,9 @@
-# 流星のロックマン2 NDS 한국어 패치 v1.0.4
+# 流星のロックマン2 NDS 한국어 패치 v1.0.5
 
-작성일: 2026-10-24
-대상: Ryuusei no Rockman 2 - Berserk x Dinosaur 
+작성일: 2026-10-25  
+대상: Ryuusei no Rockman 2 - Berserk x Dinosaur 일본판
+
+배포 ZIP에는 원본 ROM이나 패치 완료 ROM이 포함되지 않습니다. 정품에서 추출한 아래 해시와 일치하는 일본판 NDS ROM이 필요합니다.
 
 ## 지원 원본
 
@@ -15,14 +17,14 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| Ryuusei2-KO-v1.0.4.nds | 33,554,432 | c04e9a2708c7a11de7285150673a126af2f2f1f57d04bb0d669c6ffd33e9fda0 |
+| Ryuusei2-KO-v1.0.5.nds | 33,554,432 | 168c5d9a9f9ff4bb3086d5a7a52f37094a270b9a9815c9910fb1a5cf03c1d7a5 |
 
 ## 배포 파일
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| Ryuusei2-KO-v1.0.4.zip | 3,792,693 | 8b4cf4d08898d42d9d3e82307180e46f248932278d4c5a800b45d010fd149a65 |
-| Ryuusei2-KO-v1.0.4.bps | 5,809,230 | 1157cc2ae99e1e7f5397b1d08ef63489f4e4220d20a9d47f2e9def09a76cf29c |
+| Ryuusei2-KO-v1.0.5.zip | 3,793,237 | 59f019caf5da6ffa46d404f2fdd7402981b6f9c50c74c2c9752500745fa5075e |
+| Ryuusei2-KO-v1.0.5.bps | 5,809,222 | e1aed2ba7198bb732c512bbb198856288c2d41b749fa53b0023e0468b0591dee |
 
 ## 추가 기능
 
