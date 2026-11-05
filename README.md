@@ -1,4 +1,4 @@
-# 流星のロックマン2 NDS 한국어 패치 v1.1
+# 流星のロックマン2 NDS 한국어 패치 v1.1.1
 
 작성일: 2026-11-05
 대상: Ryuusei no Rockman 2 - Berserk x Dinosaur / Berserk x Shinobi 일본판
@@ -14,16 +14,16 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| Ryuusei2-KO-v1.1-Dinosaur.nds | 33,554,432 | 712cc83132d6d8b73f63f6d4b9e299852aae08b402e3e9e658c7ce8785f3461c |
-| Ryuusei2-KO-v1.1-Shinobi.nds | 33,554,432 | 9cfd71681e8b7354dfcd250e5ed318f4e92f5b400c464328e92b3bb91c8f6bd3 |
+| Ryuusei2-KO-v1.1.1-Dinosaur.nds | 33,554,432 | 9bb79f987d0df3ef71e12044b346846bc004a0173dea43b5af03f6cbcb4ffaf4 |
+| Ryuusei2-KO-v1.1.1-Shinobi.nds | 33,554,432 | 04d508b3eb85dcfe410eebba7197319ae968f7ba5f164119c9a2cf4ae3f47257 |
 
 ## 배포 파일
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| Ryuusei2-KO-v1.1.zip | 6,395,756 | ecfeb93b6ae5500d43557bd29e7dfe2c9cbbd4800f0dc05ca46a2e56d42961ad |
-| Ryuusei2-KO-v1.1-Dinosaur.bps | 4,512,000 | a4180c87b69796c3867cfed6ce00be32e45ac1ef8cad7721e8421a18cdd6dcef |
-| Ryuusei2-KO-v1.1-Shinobi.bps | 4,510,984 | ed6783f7fc67dc5786e23f53c236f7fbfc03e33289d226de54304cacc5244f15 |
+| Ryuusei2-KO-v1.1.1.zip | 6,395,744 | 62c2bc12d1e7ee366e6cc0bf93c4e95ce367fa7ecba174eeb0eade80f25ea61a |
+| Ryuusei2-KO-v1.1.1-Dinosaur.bps | 4,512,000 | 94bd2738cf1acce04db598bbf16eb226fb8321e5973376d02e1135ab6a4a2a91 |
+| Ryuusei2-KO-v1.1.1-Shinobi.bps | 4,510,984 | d3a2cb3c1f4ee5b0e68c527bbab507c64ac5b56ee1565240d6ca68ddd22bdb90 |
 
 ## 추가 기능
 
