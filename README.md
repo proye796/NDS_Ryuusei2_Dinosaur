@@ -1,7 +1,12 @@
-# 流星のロックマン2 NDS 한국어 패치 v1.1.1
+# 流星のロックマン2 NDS 한국어 패치 v1.1.1.1
 
-작성일: 2026-11-05
-대상: Ryuusei no Rockman 2 - Berserk x Dinosaur / Berserk x Shinobi 일본판
+작성일: 2026-11-21
+배포 준비본 — 실제 게시일 미정
+대상: Ryuusei no Rockman 2 - Berserk x Dinosaur / Berserk x Shinobi 일본판 (판마다 패치 하나)
+
+v1.0.9부터는 **버전마다 따로 패치**합니다. 베르세르크×다이너소어 원본에는 다이너소어판, 베르세르크×시노비 원본에는 시노비판을 적용하세요. 두 패치와 적용 도구, 합본 세이브를 나누는 도구가 묶음 하나에 들어 있습니다. v1.0.8까지의 합본(한 롬에서 두 버전)은 더 이상 만들지 않습니다.
+
+배포 ZIP에는 원본 ROM이나 패치 완료 ROM이 포함되지 않습니다. 정품에서 추출한 아래 해시와 일치하는 일본판 NDS ROM이 필요합니다.
 
 ## 지원 원본
 
@@ -14,16 +19,18 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| Ryuusei2-KO-v1.1.1-Dinosaur.nds | 33,554,432 | 9bb79f987d0df3ef71e12044b346846bc004a0173dea43b5af03f6cbcb4ffaf4 |
-| Ryuusei2-KO-v1.1.1-Shinobi.nds | 33,554,432 | 04d508b3eb85dcfe410eebba7197319ae968f7ba5f164119c9a2cf4ae3f47257 |
+| Ryuusei2-KO-v1.1.1.1-Dinosaur.nds | 33,554,432 | 792ba0db7e85ff11a0871a5acb11967457b36a9e03b133e6b5caa787b484715d |
+| Ryuusei2-KO-v1.1.1.1-Shinobi.nds | 33,554,432 | c7b49f19a36100bd23d92b40c0d792c1886d98bfdd98323b10c6118527796243 |
 
 ## 배포 파일
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| Ryuusei2-KO-v1.1.1.zip | 6,395,744 | 62c2bc12d1e7ee366e6cc0bf93c4e95ce367fa7ecba174eeb0eade80f25ea61a |
-| Ryuusei2-KO-v1.1.1-Dinosaur.bps | 4,512,000 | 94bd2738cf1acce04db598bbf16eb226fb8321e5973376d02e1135ab6a4a2a91 |
-| Ryuusei2-KO-v1.1.1-Shinobi.bps | 4,510,984 | d3a2cb3c1f4ee5b0e68c527bbab507c64ac5b56ee1565240d6ca68ddd22bdb90 |
+| Ryuusei2-KO-v1.1.1.1.zip | 6,398,633 | e1120ee5e89517649c4da7c3d65a31e318ee08c76f2e1dab735dfd7fe38fea25 |
+| Ryuusei2-KO-v1.1.1.1-Dinosaur.bps | 4,512,512 | 27c06ff1c64626be7fc397ee54c6d4a9ec6429ab3a7d115604f72b7d7a924c84 |
+| Ryuusei2-KO-v1.1.1.1-Shinobi.bps | 4,511,496 | af439d4d0cb850cba6f3fb7d7499ccae13837255213b372d78fb5cf54c83bed3 |
+
+ZIP에는 두 BPS 패치, 적용 스크립트, 합본 세이브 나누기 도구(`RR2SaveSplit.exe`와 C 원본), 설명서, 파일 정보와 검사합, 라이선스가 들어 있습니다.
 
 ## 추가 기능
 
@@ -93,7 +100,7 @@
 
 ### 통신이 필요하던 문
 
-혼자서도 진행할 수 있도록 퍼펙트 컬렉션과 같은 조건으로 문 네 곳의 조건을 바꿨습니다.
+혼자서도 진행할 수 있도록 문 네 곳의 조건을 바꿨습니다.
 
 | 장소 | 원래 조건 | 바뀐 조건 |
 |---|---|---|
